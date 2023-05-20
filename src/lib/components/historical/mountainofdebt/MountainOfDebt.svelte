@@ -13,7 +13,7 @@
 	import Axis from '$lib/components/historical/mountainofdebt/Axis.svelte';
 	import Axis2 from '$lib/components/historical/mountainofdebt/Axis2.svelte';
 	import ualData from '$lib/data/MountainOfDebt/UAL.js';
-	import frData from '$lib/data/MountainOfDebt/FundedRatio.js';
+	import frData from '$lib/data/MountainOfDebt/fundedRatio.js';
 	import HoverEvents from '$lib/components/historical/mountainofdebt/HoverEvents.svelte';
 
 	let color1 = '#c60000';
